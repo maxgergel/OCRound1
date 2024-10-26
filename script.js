@@ -1,19 +1,25 @@
 let questions = [
     {
-        clues: ["Sun", "Mercury", "Venus", "Earth"],
-        answer: "Planets in order from the Sun",
-        keywords: ["planets", "sun", "solar system", "order"]
+        clues: ["Olympia", "Babylon", "Alexandria", "Rhodes"],
+        answer: "Seven Wonders' Locations",
+        keywords: ["seven wonders", "seven", "wonders", "anceint"]
     },
     {
-        clues: ["Oliver", "Max", "Jesse", "Laurence"],
-        answer: "Members of the Gergel family",
-        keywords: ["gergel", "family", "gergels"]
+        clues: ["A hammer and feather", "Six US Flags", "Eugene Shoemakers's ashes", "Two golf balls"],
+        answer: "Items on the Moon",
+        keywords: ["moon", "items", "things", "moon landing"]
     },
     {
-        clues: ["Red", "Blue", "Yellow", "Green"],
-        answer: "Colors in the Olympic Rings",
-        keywords: ["olympic", "rings", "colors"]
+        clues: ["Pretzels", "Double-entry bookkeeping", "Kung Fu", "Genetics"],
+        answer: "Developed by monks",
+        keywords: ["monks", "monk", "monastry"]
     },
+    {
+        clues: ["Merrily We Roll Along", "Betrayal", "Memento", "Time's Arrow"],
+        answer: "Stories with reverse chronology",
+        keywords: ["time", "back", "reverse", "reversal"]
+    },
+    
     // Add more questions here...
 ];
 
